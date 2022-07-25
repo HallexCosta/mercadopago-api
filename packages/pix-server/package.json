@@ -1,0 +1,9 @@
+{
+  "name": "@mercadopago-guide/pix-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "execute": "node src/index.js"
+  }
+}
